@@ -1,0 +1,37 @@
+En cuanto tiempo se forman los habitos
+https://hablemosclaro.org/en-cuanto-tiempo-se-forman-los-habitos/
+
+Teoria de Flujo Mihaly Csikszentmihalyi
+https://www.toolshero.es/psicologia/teoria-de-flujo-mihaly-csikszentmihalyi/
+
+teoria de los estilos de aprendizaje de kolb
+https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/
+
+Aprende a apreder 4 puntos
+https://www.aluracursos.com/blog/4-puntos-esenciales-que-gui-silveira-ya-nos-enseno-para-aprender-a-aprender
+
+
+
+Iniciando un repositorio con Git
+https://www.aluracursos.com/blog/iniciando-repositorio-con-git
+
+Creando un repositorio en GitHub
+https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline
+
+Clonando un repositorio con Git y GitHub
+https://www.aluracursos.com/blog/clonando-un-repositorio-remoto?utm_source=gnarus&utm_medium=timeline
+
+Nueva exigencia de autenticación por token en Git ¿qué es y qué debo hacer?
+https://www.aluracursos.com/blog/exigendia-autenticacion-por-token
+
+Administración de tokens de acceso personal
+https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+Buenas practicas en git: evitando errores
+https://www.aluracursos.com/blog/como-evitar-errores-en-git
+
+git log cheatsheet
+https://devhints.io/git-log
+
+Rico´s cheatsheets
+https://devhints.io/
