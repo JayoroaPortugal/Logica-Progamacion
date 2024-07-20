@@ -74,3 +74,12 @@ Crea una función que reciba una lista de números y devuelva una nueva lista co
 function holamundo(){
     console.log("Hola Mundo");
 }
+
+//Crear una función que reciba un nombre como parámetro y muestre ¡Hola, [nombre]!" en la consola.
+
+function saludo(nombre){
+
+    console.log(`!Hola! ${nombre}`)
+}
+
+saludo("juan");
