@@ -68,3 +68,9 @@ Crea una función que reciba dos listas de números del mismo tamaño y devuelva
  con la suma de los elementos uno a uno.
  
 Crea una función que reciba una lista de números y devuelva una nueva lista con el cuadrado de cada número. */
+
+
+//Crear una función que muestre "¡Hola, mundo!" en la consola.
+function holamundo(){
+    console.log("Hola Mundo");
+}
