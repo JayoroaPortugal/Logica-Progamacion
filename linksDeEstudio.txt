@@ -1,3 +1,7 @@
+## Habitos
+
+### Aprender a aprender: Tecnicas para tu autodesarrollo
+
 En cuanto tiempo se forman los habitos
 https://hablemosclaro.org/en-cuanto-tiempo-se-forman-los-habitos/
 
@@ -10,7 +14,29 @@ https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-d
 Aprende a apreder 4 puntos
 https://www.aluracursos.com/blog/4-puntos-esenciales-que-gui-silveira-ya-nos-enseno-para-aprender-a-aprender
 
+The VARK Questionnaire – How do you learn best?
+https://vark-learn.com/home-spanish/
 
+La curva del olvido: ¿por qué olvidamos lo que aprendemos?
+https://www.mosalingua.com/es/curva-del-olvido/
+
+
+Llegó el momento de escribir tus metas de aprendizaje.
+
+¿Por qué lo quiero aprender?
+¿Dónde lo voy a utilizar?
+¿Cuándo quiero estar listo?
+
+Qué es el método SMART y cómo usarlo para alcanzar tus objetivos
+https://trabajarporelmundo.org/metodo-smart/
+
+Qué es el modelo Kirkpatrick
+https://www.escueladidactica.com/que-es-el-modelo-kirkpatrick/
+
+
+__________________________________________________________________________________________________________________________________________________________________________
+
+##Programacion
 
 Iniciando un repositorio con Git
 https://www.aluracursos.com/blog/iniciando-repositorio-con-git
@@ -35,3 +61,9 @@ https://devhints.io/git-log
 
 Rico´s cheatsheets
 https://devhints.io/
+
+Como escribir un buen Readme MD 
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+Guia challenge Encriptador
+https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/1._ESP_Challenge_-_Encriptador_vfinal_1.pdf
