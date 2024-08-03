@@ -1,6 +1,6 @@
 ## Habitos
 
-### Aprender a aprender: Tecnicas para tu autodesarrollo
+---------------------Aprender a aprender: Tecnicas para tu autodesarrollo---------------------------
 
 En cuanto tiempo se forman los habitos
 https://hablemosclaro.org/en-cuanto-tiempo-se-forman-los-habitos/
@@ -34,6 +34,9 @@ Qué es el modelo Kirkpatrick
 https://www.escueladidactica.com/que-es-el-modelo-kirkpatrick/
 
 
+
+---------------------Curso de LinkedIn---------------------------
+
 LinkedIn: Como hacer que tu perfil trabaje por ti
 https://app.aluracursos.com/course/linkedin-hacer-perfil-trabaje-por-ti
 
@@ -43,6 +46,27 @@ https://cdn3.gnarususercontent.com.br/ESP-1962-Aprender+a+aprender/Aprender+a+Ap
 
 La importancia de LinkedIn
 https://www.aluracursos.com/blog/la-importancia-de-linkedIn-para-tu-carrera-profesional
+
+Cómo construir un portafolio de diseño
+https://www.aluracursos.com/blog/como-construir-un-portafolio-de-design?utm_source=gnarus&utm_medium=timeline
+
+Cómo hacer y pedir recomendaciones profesionales en LinkedIn
+https://blog.hubspot.es/sales/escribir-recomendaciones-linkedin
+
+5 formas de ayudarte a crear mejores hábitos
+https://www.aluracursos.com/blog/5-formas-de-ayudarte-a-crear-mejores-habitos
+
+Técnica Pomodoro: gestiona tu tiempo con sencillez
+https://www.aluracursos.com/blog/tecnica-pomodoro-gestiona-tu-tiempo-con-sencillez
+
+publcar usando PULSE de LinkedIn
+
+
+
+---------------------Curso: Foco: Enfocarse trae más resultados para el día a día---------------------------
+
+Articulo "Panificando mis estudios"
+https://www.aluracursos.com/blog/planificando-mis-estudios
 __________________________________________________________________________________________________________________________________________________________________________
 
 ##Programacion
@@ -76,3 +100,4 @@ https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
 Guia challenge Encriptador
 https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/1._ESP_Challenge_-_Encriptador_vfinal_1.pdf
+
