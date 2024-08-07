@@ -1,0 +1,25 @@
+git --version = version de codigo
+
+configuracion git
+git config --global user.name "name" = nombre de usuario
+git config --global user.email "email" = email de usuario
+git config --list = para ver resultado de la dconfiguracion
+
+otros comandos
+ls = para ver archivos dentro la carpeta
+ls -a = muestra los archivos que comuienza con "."punto
+(El uso de la opción -a con ls es importante, ya que Linux 
+normalmente oculta los nombres de archivos y directorios que comienzan con un punto).
+
+mkdir "nombre"= para crear ueva carpeta
+
+iniciando repo
+en versiones posteriores a 2.28. usar
+git init -b main = inicia un repositorio y cambia el nombre de la branch  a main
+o tambie
+git init --initial-branch=main
+
+E versioes ateriores
+git init
+git checkout -b main
+
