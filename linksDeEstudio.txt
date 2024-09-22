@@ -118,3 +118,28 @@ https://caelum-online-public.s3.amazonaws.com/oracle-one-fase2/1._ESP_Challenge_
 7 consejos para elegir una carrera profesional
 https://mx.indeed.com/orientacion-profesional/como-encontrar-empleo/elegir-carrera
 
+
+Las 9 principales teorías de la motivación laboral
+https://psicologiaymente.com/organizaciones/teorias-motivacion-laboral
+
+
+
+
+---------------------------Formacion backend-----------------------------
+https://cdn3.gnarususercontent.com.br/2026-desarrollo-carrera-demanda-mercado/PDF_Desarrollo+de+carrera_+demanda+del+mercado+.pdf
+
+IntelliJ IDEA para principiantes
+https://www.aluracursos.com/blog/intellij-idea-para-principiantes
+
+IntelliJ IDEA: consejos y trucos para usar en la vida cotidiana
+https://www.aluracursos.com/blog/intellij-idea-consejos-trucos-vida-cotidiana
+
+Paso a paso con la Máquina Virtual de Java (JVM)
+https://www.aluracursos.com/blog/paso-a-paso-jvm
+
+
+La magia detrás de Java
+https://www.youtube.com/watch?v=GrEO8nZzyZM
+
+Java: una guía para iniciar en esta tecnología.
+https://www.aluracursos.com/blog/java-una-guia-para-iniciar-tecnologia
